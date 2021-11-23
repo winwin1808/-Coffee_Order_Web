@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Coffee_Odering_Web/1.0.0": {
+        "runtime": {
+          "Coffee_Odering_Web.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Coffee_Odering_Web/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
